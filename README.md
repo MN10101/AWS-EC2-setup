@@ -36,6 +36,7 @@ The document covers the following topics:
 
 ## How to Use this Repository
 
+- **View the PDF**: The main document is available [here](./AWS%20EC2.pdf).
 - **Follow the Steps**: Use the detailed instructions provided in the PDF to set up an EC2 instance and deploy a Spring Boot application.
 - **Access the Application**: After deployment, access your application through the public IP of your EC2 instance.
 
